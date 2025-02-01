@@ -1,4 +1,4 @@
-![Civ VI Banner](/img/image.png)
+![Civ VI Banner](./img/image.png)
 
 # Civ VI Single Player Saved Games
 
