@@ -1,8 +1,8 @@
-![Civ VI Banner](./img/image.png)
-
 # Civ VI Single Player Saved Games
 
 This repository stores **Civilization VI** single-player save files, allowing you to sync your game progress between Windows and macOS.
+
+![Civ VI Banner](./img/image.png)
 
 ## Setup & Usage
 
